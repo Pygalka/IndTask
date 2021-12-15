@@ -1,0 +1,42 @@
+{"type":"FeatureCollection","features":[
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[4.4436244,50.4120332]},
+"properties":{"Type":"city","Name":"Charleroi","Name(en)":"No data","Name(ru)":"Шарлеруа","Population":202730}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[4.7011675,50.879202]},
+"properties":{"Type":"city","Name":"Leuven","Name(en)":"Leuven","Name(ru)":"Лёвен","Population":102275}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[4.351697,50.8465573]},
+"properties":{"Type":"city","Name":"Bruxelles - Brussel","Name(en)":"Brussels","Name(ru)":"Брюссель","Population":153377}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[3.226772,51.2085526]},
+"properties":{"Type":"city","Name":"Brugge","Name(en)":"Bruges","Name(ru)":"Брюгге","Population":117639}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[3.7250121,51.0538286]},
+"properties":{"Type":"city","Name":"Gent","Name(en)":"Ghent","Name(ru)":"Гент","Population":237000}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[5.5734203,50.6451381]},
+"properties":{"Type":"city","Name":"Liège","Name(en)":"No data","Name(ru)":"Льеж","Population":197013}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[4.3997081,51.2211097]},
+"properties":{"Type":"city","Name":"Antwerpen","Name(en)":"Antwerp","Name(ru)":"Антверпен","Population":506922}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[4.8661892,50.4665284]},
+"properties":{"Type":"city","Name":"Namur","Name(en)":"Namur","Name(ru)":"Намюр","Population":110691}
+},
+{}]}
